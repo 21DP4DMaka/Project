@@ -1,0 +1,12 @@
+{
+    "name": "danil/tencyclopedia",
+    "type": "project",
+    "authors": [
+        {
+            "name": "danila"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
